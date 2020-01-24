@@ -1,38 +1,37 @@
 [
   {
+    "id": 0,
     "category": "general",
     "visibility": "loggedIn",
     "question": "What is Lorem Ipsum?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed interdum sapien sed nulla interdum, et facilisis lacus venenatis. Donec ac turpis at risus placerat aliquam sed vel turpis. Etiam semper orci sit amet luctus blandit. Donec est quam, volutpat ut enim porttitor, condimentum posuere massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla malesuada arcu risus, nec finibus nisi porta ac. Aliquam congue elementum purus. Nullam sollicitudin condimentum odio, ut tincidunt orci. Maecenas id purus augue. Maecenas sed risus vitae sapien tincidunt semper nec vitae eros."
   },
   {
+    "id": 1,
     "category": "account",
     "visibility": "all",
     "question": "Where can I get some?",
     "answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
   },
   {
+    "id": 2,
     "category": "account",
     "visibility": "all",
     "question": "Where can I get some?",
     "answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
   },
   {
+    "id": 3,
     "category": "accreditation",
     "visibility": "all",
     "question": "Where does it come from?",
     "answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
   },
   {
+    "id": 4,
     "category": "general",
     "visibility": "loggedOut",
     "question": "Where can I get some?",
-    "answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
-  },
-  {
-    "category": "logging",
-    "visibility": "all",
-    "question": "What is Lorem Ipsum?",
     "answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text"
   }
 ]
