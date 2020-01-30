@@ -5,7 +5,7 @@
       "category": "accreditation",
       "visibility": "all",
       "question": "What if I want more than one accreditation for my surgery center?",
-      "answer": "It is not uncommon for a surgery center to seek multiple accreditations for either contracting or other business purposes. Everything in our software is dynamic based on the agency that you choose and an additional accreditation usually requires a different tax ID. Therefore, it is important to keep each accreditation in a seperate account with SCT. We\"ve found the best way to accomplish this is by signing up for a new SCT account with a different email address."
+      "answer": "It is not uncommon for a surgery center to seek multiple accreditations for either contracting or other business purposes. Everything in our software is dynamic based on the agency that you choose and an additional accreditation usually requires a different tax ID. Therefore, it is important to keep each accreditation in a seperate account with SCT. We've found the best way to accomplish this is by signing up for a new SCT account with a different email address."
     },
     {
       "id": 1,
@@ -32,8 +32,8 @@
       "id": 4,
       "category": "accreditation",
       "visibility": "all",
-      "question": "What If I want to change the accreditation agency after I\"ve started?",
-      "answer": "We don\"t recommend changing agencies once you have started the process with one.However, we understand there are reasons for doing so.Please contact us so we can work on transitioning your account information to a different agency."
+      "question": "What If I want to change the accreditation agency after I've started?",
+      "answer": "We don't recommend changing agencies once you have started the process with one.However, we understand there are reasons for doing so.Please contact us so we can work on transitioning your account information to a different agency."
     },
     {
       "id": 5,
@@ -60,7 +60,7 @@
       "id": 8,
       "category": "account",
       "visibility": "all",
-      "question": "Why can\"t I get access to new accreditation, maintenance or reaccreditation?",
+      "question": "Why can't I get access to new accreditation, maintenance or reaccreditation?",
       "answer": "We want to make your journey of accreditation as simple as possible. We will only provide access to the modules you need at the stage of accreditation you are in. For instance, if you are already accredited, you do not need the \"new accreditation\" module. If you believe you need access to a module that is currently inaccessible, please contact us for help."
     },
     {
@@ -138,7 +138,7 @@
       "category": "maintenance",
       "visibility": "all",
       "question": "How does SCT help me maintain my Accreditation?",
-      "answer": "SCT provides you with operational reminders and electronic logs that allow you to maintain and follow your policies and procedures in accordance to your agency\"s standards.In addition, policies and procedures are updated and maintained in accordance to staffing and other data entry changes. Furthermore, administrative oversight tools enable you to monitor real- time progress."
+      "answer": "SCT provides you with operational reminders and electronic logs that allow you to maintain and follow your policies and procedures in accordance to your agency's standards.In addition, policies and procedures are updated and maintained in accordance to staffing and other data entry changes. Furthermore, administrative oversight tools enable you to monitor real- time progress."
     },
     {
       "id": 20,
