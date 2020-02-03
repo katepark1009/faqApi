@@ -146,6 +146,20 @@
       "visibility": "all",
       "question": "Can I search standards, policies or procedures?",
       "answer": "SCT has incorporated a powerful search engine to quickly and efficiently navigate agency standards and individual policies and procedures using keywords or direct references."
+    },
+    {
+      "id": 21,
+      "category": "puppy",
+      "visibility": "logged_in",
+      "question": "Dogs are smart?",
+      "answer": "Your dog is as smart as a two-year old!"
+    },
+    {
+      "id": 22,
+      "category": "kitten",
+      "visibility": "logged_out",
+      "question": "How much time does cats spend for grooming?",
+      "answer": "Cats spend between 30 to 50 percent of their day grooming themselves"
     }
   ]
 }
