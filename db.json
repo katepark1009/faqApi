@@ -163,7 +163,7 @@
     },
     {
       "id": 23,
-      "category": "isthisworking",
+      "category": "isThisworking",
       "visibility": "logged_out",
       "question": "Hello?",
       "answer": "Hi there"
