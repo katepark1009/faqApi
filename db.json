@@ -167,13 +167,6 @@
       "visibility": "logged_out",
       "question": "Hello?",
       "answer": "Hi there"
-    },
-    {
-      "id": 24,
-      "category": "noCapOnCategory",
-      "visibility": "logged_in",
-      "question": "data",
-      "answer": "will be not shown on client side."
     }
   ]
 }
