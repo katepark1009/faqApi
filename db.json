@@ -170,7 +170,7 @@
     },
     {
       "id": 24,
-      "category": "NoCapOnCategory",
+      "category": "noCapOnCategory",
       "visibility": "logged_in",
       "question": "data",
       "answer": "will be not shown on client side."
