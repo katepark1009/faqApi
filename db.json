@@ -163,10 +163,17 @@
     },
     {
       "id": 23,
-      "category": "isThisworking",
+      "category": "isthisworking",
       "visibility": "logged_out",
       "question": "Hello?",
       "answer": "Hi there"
+    },
+    {
+      "id": 23,
+      "category": "NoCapOnCategory",
+      "visibility": "logged_in",
+      "question": "data",
+      "answer": "will be not shown on client side."
     }
   ]
 }
